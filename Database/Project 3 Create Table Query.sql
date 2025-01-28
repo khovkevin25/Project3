@@ -1,0 +1,20 @@
+CREATE TABLE "Philadelphia Food Accessibility" (
+	"Census Tract" varchar,
+	"Population" int,
+	"Housing Units in Tract" int,
+	"LI, LA - 1 mile radius" int,
+	"LI, LA - 0.5 mile radius" int,
+	"Low Income Tracts" int,
+	"Poverty Rate (%)" varchar,
+	"Median Family Income" varchar,
+	"LA - 1 mile radius" int,
+	"LA - 0.5 mile radius" int,
+	"LA,LI - 0.5 mile radius" varchar,
+	"LA - Kids population, 0.5 mile radius" varchar,
+	"LA - Senior population, 0.5 mile radius" varchar,
+	"LA - Kids population, 1 mile radius" varchar,
+	"LA - Senior population, 1 mile radius" varchar,
+	"LA - Housing Units w/ Snap Benefits, 0.5 mile radius" varchar,
+	"LA - Housing Units w/ Snap Benefits, 1 mile radius" varchar,
+	"Total Count of Housing w/ Snap Benefits" int
+);
