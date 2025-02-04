@@ -26,14 +26,14 @@ d3.json(link).then(geojsonData => {
                 let data = censusLookup[tractID];
 
                 if (data) {
-                    let seniors05 = +data["LA Senior population - 0.5 mile radius"];
+                    //let seniors05 = +data["LA Senior population - 0.5 mile radius"];
                     let income = +data["Median Family Income"];
                     let poverty = +data["Poverty Rate (%)"];
                 
                     return {
                         color: "black",
                         weight: 1,
-                        fillColor: getColor(seniors05, income, poverty), // Use CSV data
+                        fillColor: getColor(income, poverty), // Use CSV data
                         fillOpacity: 0.6
                     };
                  } else {
@@ -70,12 +70,12 @@ d3.json(link).then(geojsonData => {
     }).catch(error => console.log("Error loading CSV:", error));
 }).catch(error => console.log("Error loading GeoJSON:", error));
 
-// Adjust the colors of the number of seniors there are in a tract based on median income or poverty rate
-function getColor(seniors05, income, poverty) {
-    return (seniors05 > 0 && income > 77156 || poverty <= 10) ? '#41ae76' : // Green
-    ((seniors05 > 500 && seniors05 <= 1000) && (income <= 77156 && income > 52500) || (poverty > 10 && poverty < 15)) ? '#ffeda0' : // Yellow
-    ((seniors05 > 1000 && seniors05 <= 1500) && (income <= 52500 && income > 36964) || (poverty >= 15 && poverty < 20)) ? '#fd8d3c' : // Orange
-    (seniors05 > 1500 && income <= 36964 || poverty >= 20) ? '#e31a1c': // Red
+// Adjust the colors of each tract based on household income or poverty rate (low household income/high poverty rate means high risk area)
+function getColor(income, poverty) {
+    return (income > 77156 || poverty <= 10) ? '#41ae76' : // Green
+    ((income <= 77156 && income > 52500) || (poverty > 10 && poverty < 15)) ? '#ffeda0' : // Yellow
+    ((income <= 52500 && income > 36964) || (poverty >= 15 && poverty < 20)) ? '#fd8d3c' : // Orange
+    (income <= 36964 || poverty >= 20) ? '#e31a1c': // Red
               '#e0e0e0';
 }
 
@@ -126,10 +126,10 @@ legend.onAdd = function () {
 
     // Define categories based on getColor scheme
     let categories = [
-        {label: "Senior Population <500; Income >$77156 or <10% Poverty", color: "#41ae76"}, // Green
-        {label: "Senior Population 500-1000; Income $52500-$77156 or 10-15% Poverty ", color: "#ffeda0"}, // Yellow
-        {label: "Senior Population 1000-1500; Income $36964-$52500 or 15-20% Poverty", color: "#fd8d3c"}, // Orange
-        {label: "Senior Population >1500; Income <$36394 or >20% Poverty", color: "#e31a1c"}, // Red
+        {label: "Income >$77156 or <10% Poverty", color: "#41ae76"}, // Green
+        {label: "Income $52500-$77156 or 10-15% Poverty ", color: "#ffeda0"}, // Yellow
+        {label: "Income $36964-$52500 or 15-20% Poverty", color: "#fd8d3c"}, // Orange
+        {label: "Income <$36394 or >20% Poverty", color: "#e31a1c"}, // Red
         {label: "No Data Available", color: "#e0e0e0"} // Gray
     ];
     // Loop through categories to create legend items
