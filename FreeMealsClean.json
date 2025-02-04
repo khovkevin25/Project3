@@ -1,0 +1,2549 @@
+[
+ {
+   "Site": "Nativity Satellite Program",
+   "Address": "3255 Belgrade St",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.10278303,
+   "Latitude": 39.98691001
+ },
+ {
+   "Site": "King Older Adult Center",
+   "Address": "2100 W. Cecil B. Moore Ave.",
+   "Category": "PPR_Senior",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.1696037,
+   "Latitude": 39.97998455
+ },
+ {
+   "Site": "Bethel Worship Center",
+   "Address": "169 W. Wyoming Ave.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.12701983,
+   "Latitude": 40.02204029
+ },
+ {
+   "Site": "Hope Prison Ministries",
+   "Address": "735 W. Butler St.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.13759271,
+   "Latitude": 40.02649652
+ },
+ {
+   "Site": "Frontline Dads (410 N 34th St.)",
+   "Address": "410 N 34th St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Permanently Closed",
+   "Longitude": -75.19128904,
+   "Latitude": 39.96170764
+ },
+ {
+   "Site": "New Life Community Center",
+   "Address": "4726 N Broad St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.14790726,
+   "Latitude": 40.02544206
+ },
+ {
+   "Site": "Family Support Circle",
+   "Address": "2059 E Chelten Ave",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.15405898,
+   "Latitude": 40.05188536
+ },
+ {
+   "Site": "Second Antioch Baptist Church",
+   "Address": "912 N 41st St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.20607914,
+   "Latitude": 39.97080192
+ },
+ {
+   "Site": "Resurrection Community Church",
+   "Address": "6200 Dicks Ave",
+   "Category": "PHILABUNDANCE/SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.22391889,
+   "Latitude": 39.92224244
+ },
+ {
+   "Site": "St. Benedict Food Bank",
+   "Address": "1940 E Chelten Ave",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.15165703,
+   "Latitude": 40.0515649
+ },
+ {
+   "Site": "George Washington High School Pantry",
+   "Address": "10175 Bustleton Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.02601768,
+   "Latitude": 40.10591552
+ },
+ {
+   "Site": "The Reid Foundation, Inc. at Always Independent",
+   "Address": "9150 Marshall Street",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.03133598,
+   "Latitude": 40.07240979
+ },
+ {
+   "Site": "Church of Pentecost",
+   "Address": "2530 Wharton St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.18692388,
+   "Latitude": 39.93649478
+ },
+ {
+   "Site": "Friends Rehabilitation Program",
+   "Address": "704 W Girard Ave",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active  ",
+   "Longitude": -75.14848012,
+   "Latitude": 39.97021618
+ },
+ {
+   "Site": "North Philadelphia SDA Church",
+   "Address": "1510 W Oxford St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.16113704,
+   "Latitude": 39.97751359
+ },
+ {
+   "Site": "Revelation Philadelphia Ministry Inc",
+   "Address": "7047 Buist Ave",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.2374023,
+   "Latitude": 39.91525876
+ },
+ {
+   "Site": "Brand New Life Christian Center",
+   "Address": "6301 Germantown Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.1806657,
+   "Latitude": 40.04373858
+ },
+ {
+   "Site": "Brewerytown Sharswood Coalition",
+   "Address": "3000 W Master St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.18537684,
+   "Latitude": 39.97736743
+ },
+ {
+   "Site": "Eastwick United Methodist Church",
+   "Address": "8325 Lindbergh Blvd",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.2522683,
+   "Latitude": 39.89850643
+ },
+ {
+   "Site": "Ezekiel Baptist Church",
+   "Address": "5701 Grays Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.22163117,
+   "Latitude": 39.93096142
+ },
+ {
+   "Site": "Good Samaritan Baptist Church",
+   "Address": "6148-6150 Lansdowne Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.24340366,
+   "Latitude": 39.9753951
+ },
+ {
+   "Site": "Kitchen of Love",
+   "Address": "8500 Pickering Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.17462411,
+   "Latitude": 40.08134157
+ },
+ {
+   "Site": "New Testament Church of God",
+   "Address": "935 S 53rd St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.22704018,
+   "Latitude": 39.9456065
+ },
+ {
+   "Site": "Gather the People House of Prayer",
+   "Address": "1429 W Clearfield St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.15419266,
+   "Latitude": 40.00026453
+ },
+ {
+   "Site": "Interfaith Food Cupboard",
+   "Address": "3600 Baring St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.19417976,
+   "Latitude": 39.96088086
+ },
+ {
+   "Site": "Kingdom Life Christian Center",
+   "Address": "6325 Frankford Ave.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.05876429,
+   "Latitude": 40.02796708
+ },
+ {
+   "Site": "MAP Holistic CDC (Mankind Against Poverty)",
+   "Address": "1510 W Stiles St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.16149933,
+   "Latitude": 39.9725544
+ },
+ {
+   "Site": "St Paul A.M.E. Church",
+   "Address": "8398 Lindbergh Blvd",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.25162369,
+   "Latitude": 39.89766769
+ },
+ {
+   "Site": "Grace Tabernacle Christian Church",
+   "Address": "1519 S 52nd St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.21664267,
+   "Latitude": 39.93886863
+ },
+ {
+   "Site": "Norris Homes/North Central Community Center",
+   "Address": "2000 N 11th St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.15170413,
+   "Latitude": 39.98293998
+ },
+ {
+   "Site": "James Varick AME Zion Church",
+   "Address": "2001 Reed Street",
+   "Category": "NDS",
+   "Subcategory": "",
+   "Status": "",
+   "Longitude": -75.17750994,
+   "Latitude": 39.93433159
+ },
+ {
+   "Site": "Centre d'Adoration Chretienne",
+   "Address": "4520 Benner St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.05905046,
+   "Latitude": 40.01987579
+ },
+ {
+   "Site": "Consortium Community Mental Health Center",
+   "Address": "137 S. 58th St.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.23715481,
+   "Latitude": 39.9585887
+ },
+ {
+   "Site": "Courtyard Apartments at Riverview",
+   "Address": "1021 South 4th St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.15018066,
+   "Latitude": 39.9348904
+ },
+ {
+   "Site": "Haddington Overbrook Resident Council",
+   "Address": "648 N 57th St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.23434846,
+   "Latitude": 39.96989905
+ },
+ {
+   "Site": "Katie's Cupboard at Tabor",
+   "Address": "4860 N Howard St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.1250505,
+   "Latitude": 40.02458619
+ },
+ {
+   "Site": "Mantua Haverford Community Center/Mt. Vernon Manor CDC",
+   "Address": "1103 N. 40th St.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.19961741,
+   "Latitude": 39.96407033
+ },
+ {
+   "Site": "Men Who Care of Germantown Inc",
+   "Address": "180 E Tulpehocken St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.17660296,
+   "Latitude": 40.04505992
+ },
+ {
+   "Site": "Mount Hebron Baptist Church",
+   "Address": "1419 Wharton St",
+   "Category": "PHILABUNDANCE/SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.16860444,
+   "Latitude": 39.93441271
+ },
+ {
+   "Site": "New Bethany Baptist Church",
+   "Address": "1415 S 23rd St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.1825017,
+   "Latitude": 39.9343041
+ },
+ {
+   "Site": "Reconciliation And Liberty Bible Church",
+   "Address": "6027 Chestnut St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.24198807,
+   "Latitude": 39.96075502
+ },
+ {
+   "Site": "The Charles Foundation",
+   "Address": "605 N 52nd St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Permanently Closed",
+   "Longitude": -75.22512083,
+   "Latitude": 39.96970081
+ },
+ {
+   "Site": "Women Walking in Victory",
+   "Address": "2441 N 29th St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.17919462,
+   "Latitude": 39.99338217
+ },
+ {
+   "Site": "Jerusalem French Church",
+   "Address": "537 E. Wyoming Ave.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.11483996,
+   "Latitude": 40.02055924
+ },
+ {
+   "Site": "Philly House",
+   "Address": "302 N 13th St.",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.16027272,
+   "Latitude": 39.95810147
+ },
+ {
+   "Site": "The Perimeter",
+   "Address": "213-217 N 4th St",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.1461239,
+   "Latitude": 39.95469746
+ },
+ {
+   "Site": "St. Francis Inn",
+   "Address": "2441 Kensington Ave",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.13057983,
+   "Latitude": 39.98687618
+ },
+ {
+   "Site": "Living Word Community",
+   "Address": "142 N. 17th St",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.16790537,
+   "Latitude": 39.95649388
+ },
+ {
+   "Site": "Church of the Holy Trinity, Open Hearts Cafe",
+   "Address": "1904 Walnut St",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.17324104,
+   "Latitude": 39.95032971
+ },
+ {
+   "Site": "Lutheran Settlement House",
+   "Address": "1340 Frankford Ave.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.13466968,
+   "Latitude": 39.97141434
+ },
+ {
+   "Site": "Mann Older Adult Center",
+   "Address": "3201 N. 5th St.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.13810357,
+   "Latitude": 40.0003955
+ },
+ {
+   "Site": "Northern Living Center",
+   "Address": "827 N Franklin St.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.14984274,
+   "Latitude": 39.96634569
+ },
+ {
+   "Site": "On Lok House Satellite",
+   "Address": "219 N. 10th St.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.15564685,
+   "Latitude": 39.95584774
+ },
+ {
+   "Site": "Philadelphia Senior Center - Allegheny Branch",
+   "Address": "1900 W. Allegheny Ave.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.16075115,
+   "Latitude": 40.00215162
+ },
+ {
+   "Site": "Center in the Park",
+   "Address": "5818 Germantown Ave.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.1763186,
+   "Latitude": 40.03713672
+ },
+ {
+   "Site": "Philadelphia Housing Authority Emlen Arms",
+   "Address": "6733 Emlen St.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.1897048,
+   "Latitude": 40.04955245
+ },
+ {
+   "Site": "Northeast Older Adult Center",
+   "Address": "8101 Bustleton Ave.",
+   "Category": "PPR_Senior",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.05129272,
+   "Latitude": 40.06263887
+ },
+ {
+   "Site": "Peter Brassi NE Senior Center",
+   "Address": "4744-46 Frankford Ave.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.08326597,
+   "Latitude": 40.01798062
+ },
+ {
+   "Site": "Firehouse Active Adult Center",
+   "Address": "5331 Haverford Ave.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.22753027,
+   "Latitude": 39.96630341
+ },
+ {
+   "Site": "West Philadelphia Senior Community Center",
+   "Address": "1016-26 N. 41st St.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.20658712,
+   "Latitude": 39.9722447
+ },
+ {
+   "Site": "St. Edmonds Senior Community Center Catholic Housing and Community Services",
+   "Address": "2130 S 21st St.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.18140473,
+   "Latitude": 39.92470503
+ },
+ {
+   "Site": "Marconi Older Adult Program",
+   "Address": "2433 S. 15th St.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.17222185,
+   "Latitude": 39.91982347
+ },
+ {
+   "Site": "Philadelphia Housing Authority Cassie L. Holly Apts. Satelite",
+   "Address": "2100 Dickinson St.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.18020371,
+   "Latitude": 39.93292194
+ },
+ {
+   "Site": "Philadelphia Housing Authority Wilson Park",
+   "Address": "2500 Jackson St.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.18957459,
+   "Latitude": 39.92568293
+ },
+ {
+   "Site": "Philadelphia Senior Center - Avenue of the Arts and Asia-Pacific Senior Resource Center",
+   "Address": "509 S. Broad St.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.16507683,
+   "Latitude": 39.94423741
+ },
+ {
+   "Site": "Catholic Housing and Community Services Star Harbor Senior Center Satellite",
+   "Address": "4700 Springfield Ave.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.21508071,
+   "Latitude": 39.94673017
+ },
+ {
+   "Site": "Southwest Senior Center",
+   "Address": "6916 Elmwood Ave.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.23639734,
+   "Latitude": 39.91763651
+ },
+ {
+   "Site": "CHCS Norris Square Center",
+   "Address": "2121 N. Howard St",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.13343031,
+   "Latitude": 39.98257945
+ },
+ {
+   "Site": "The Center at Journey’s Way",
+   "Address": "403 Rector St.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.2140272,
+   "Latitude": 40.02763011
+ },
+ {
+   "Site": "Kleinlife Northeast &  Kleinlife Russian Satellite",
+   "Address": "10100 Jamison Ave.",
+   "Category": "PCA",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.02081947,
+   "Latitude": 40.10179544
+ },
+ {
+   "Site": "Mizpah SDA",
+   "Address": "4355 Paul St",
+   "Category": "PHILABUNDANCE/SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.08627001,
+   "Latitude": 40.01156142
+ },
+ {
+   "Site": "Parkside Association of Philadelphia",
+   "Address": "1719 N 52nd St, Suite G",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.22407,
+   "Latitude": 39.981528
+ },
+ {
+   "Site": "Upper Room Missionary Baptist Church",
+   "Address": "7236 Ogontz Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.1550985,
+   "Latitude": 40.064742
+ },
+ {
+   "Site": "Keep It Real CDC",
+   "Address": "5900 Lansdowne Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.238668,
+   "Latitude": 39.975912
+ },
+ {
+   "Site": "Salvation Army Temple",
+   "Address": "1340 Brown St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.15940461,
+   "Latitude": 39.96785987
+ },
+ {
+   "Site": "Roxborough Presbyterian Church",
+   "Address": "8232 Ridge Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.23779531,
+   "Latitude": 40.059161
+ },
+ {
+   "Site": "Young Chances Foundation",
+   "Address": "2703 Tasker St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.1898385,
+   "Latitude": 39.933396
+ },
+ {
+   "Site": "Feast of Justice (Tyson Ave)",
+   "Address": "3101 Tyson Ave",
+   "Category": "PHILABUNDANCE/SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.05291727,
+   "Latitude": 40.03723725
+ },
+ {
+   "Site": "Mighty Writers North",
+   "Address": "Vaux Building, W. Seybert St & N. 23rd St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.17426,
+   "Latitude": 39.976282
+ },
+ {
+   "Site": "Mighty Writers El Futuro",
+   "Address": "1025 S. 9th St.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.1582623,
+   "Latitude": 39.9369036
+ },
+ {
+   "Site": "Broad Street Love",
+   "Address": "315 S Broad Street",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.16491073,
+   "Latitude": 39.94635933
+ },
+ {
+   "Site": "Hub of Hope",
+   "Address": "1401 JFK Pkway, Suburban Station Concourse (lower level)",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.1644451,
+   "Latitude": 39.95420821
+ },
+ {
+   "Site": "Juniata Park Older Adult Center",
+   "Address": "1251 E. Sedgley Avenue",
+   "Category": "PPR_Senior",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.10444333,
+   "Latitude": 40.0036572
+ },
+ {
+   "Site": "West Oak Lane Senior Center",
+   "Address": "7210 Ogontz Avenue",
+   "Category": "PPR_Senior",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.15424454,
+   "Latitude": 40.06439259
+ },
+ {
+   "Site": "South Philly Older Adult Center",
+   "Address": "1430 E. Passyunk Avenue",
+   "Category": "PPR_Senior",
+   "Subcategory": "Senior Meal Site",
+   "Status": "Active",
+   "Longitude": -75.1624561,
+   "Latitude": 39.93150618
+ },
+ {
+   "Site": "Iglesia Christiana Avivamiento",
+   "Address": "5500 Tabor Rd",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.10408758,
+   "Latitude": 40.0364109
+ },
+ {
+   "Site": "Richard & Friends",
+   "Address": "1916 E Venango",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.10274031,
+   "Latitude": 39.99969173
+ },
+ {
+   "Site": "Faith Chapel Church FCDC",
+   "Address": "108 E. Price St.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.17387338,
+   "Latitude": 40.03779948
+ },
+ {
+   "Site": "New Era Baptist Church",
+   "Address": "6618 Wyncote Ave.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.15397331,
+   "Latitude": 40.05556893
+ },
+ {
+   "Site": "10th St. Market (North 10)",
+   "Address": "3890 N. 10th St., 2nd Fl",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.1442912,
+   "Latitude": 40.01165849
+ },
+ {
+   "Site": "Arch Street United Methodist Church",
+   "Address": "55 N Broad St",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.16294135,
+   "Latitude": 39.95413765
+ },
+ {
+   "Site": "Chosen 300",
+   "Address": "1116 Spring Garden St.",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.15689482,
+   "Latitude": 39.96154726
+ },
+ {
+   "Site": "Chosen 300 West",
+   "Address": "3959 Lancaster Ave",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.2020146,
+   "Latitude": 39.96314357
+ },
+ {
+   "Site": "UC Hospitality Coalition",
+   "Address": "3637 Chestnut St",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.19620209,
+   "Latitude": 39.95522014
+ },
+ {
+   "Site": "UC Hospitality Coalition",
+   "Address": "38th and Ludlow St",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.19802957,
+   "Latitude": 39.95578897
+ },
+ {
+   "Site": "UC Hospitality Coalition",
+   "Address": "3619 Locust Walk",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.1958239,
+   "Latitude": 39.95226692
+ },
+ {
+   "Site": "UC Hospitality Coalition",
+   "Address": "401 S 42nd St",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.20689287,
+   "Latitude": 39.95094109
+ },
+ {
+   "Site": "Face to Face",
+   "Address": "123 E. Price St",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.17409666,
+   "Latitude": 40.03836871
+ },
+ {
+   "Site": "Salvation Army",
+   "Address": "1920 E Allegheny Ave",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.11215464,
+   "Latitude": 39.99463695
+ },
+ {
+   "Site": "Our Brothers Place",
+   "Address": "907 Hamilton St",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.15378075,
+   "Latitude": 39.96022849
+ },
+ {
+   "Site": "Mt. Tabor AME Church",
+   "Address": "961 N. 7th St",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.14823053,
+   "Latitude": 39.96908178
+ },
+ {
+   "Site": "Bethel Presbyterian Church",
+   "Address": "1800 W York St",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.16384903,
+   "Latitude": 39.99032587
+ },
+ {
+   "Site": "St. John's Hospice",
+   "Address": "1221 Race St",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.15998564,
+   "Latitude": 39.955993
+ },
+ {
+   "Site": "FAWN Food Pantry at Tilden Middle School",
+   "Address": "6601 Elmwood Ave (enter by parking lot on 66th St.)",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.23233806,
+   "Latitude": 39.92161536
+ },
+ {
+   "Site": "Community Center at Visitation",
+   "Address": "2646 Kensington Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.12621979,
+   "Latitude": 39.98974959
+ },
+ {
+   "Site": "5th District and Friends at John F. Street Community Center",
+   "Address": "1100 Poplar St.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.15297373,
+   "Latitude": 39.96851304
+ },
+ {
+   "Site": "Catholic Social Services Southwest Family Service Center",
+   "Address": "6214 Grays Ave",
+   "Category": "Nutritional Development Services",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.22823286,
+   "Latitude": 39.92565787
+ },
+ {
+   "Site": "Catholic Social Services Northeast Family Service Center",
+   "Address": "7340 Jackson St",
+   "Category": "Nutritional Development Services",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.03538796,
+   "Latitude": 40.03323638
+ },
+ {
+   "Site": "Dreuding Center",
+   "Address": "1321 N. Lawrence St. Door Number 10",
+   "Category": "Nutritional Development Services",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.14347187,
+   "Latitude": 39.97202578
+ },
+ {
+   "Site": "Lutheran Settlement Food Cupboard",
+   "Address": "1340 Frankford Ave",
+   "Category": "Nutritional Development Services",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.13459286,
+   "Latitude": 39.97137383
+ },
+ {
+   "Site": "Mission of St. Joan of Arc Food Cupboard",
+   "Address": "3550 Frankford Ave",
+   "Category": "Nutritional Development Services",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.1023081,
+   "Latitude": 39.99783009
+ },
+ {
+   "Site": "Our Lady of Hope",
+   "Address": "5200 N. Broad St",
+   "Category": "Nutritional Development Services",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.14650947,
+   "Latitude": 40.03240392
+ },
+ {
+   "Site": "Rodeph Shalom",
+   "Address": "1339 Green St.",
+   "Category": "Nutritional Development Services",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.16080077,
+   "Latitude": 39.96362942
+ },
+ {
+   "Site": "St. Barbara",
+   "Address": "5359 Lebanon Ave (side entrance)",
+   "Category": "Nutritional Development Services",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.2318589,
+   "Latitude": 39.98769168
+ },
+ {
+   "Site": "Padre Pio Prayer Center Food Distribution (St. Joachim)",
+   "Address": "1527 Church St",
+   "Category": "Nutritional Development Services",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.08971093,
+   "Latitude": 40.0118811
+ },
+ {
+   "Site": "McClure Elementary School",
+   "Address": "600 W Hunting Park Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.13757701,
+   "Latitude": 40.01516584
+ },
+ {
+   "Site": "Bebashi",
+   "Address": "1235 Spring Garden St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.15885818,
+   "Latitude": 39.96215034
+ },
+ {
+   "Site": "Better Tomorrows - West Poplar Apartments",
+   "Address": "637 N. 13th St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.1585106,
+   "Latitude": 39.96463255
+ },
+ {
+   "Site": "Mighty Writers West",
+   "Address": "3520 Fairmount Ave.",
+   "Category": "NDS",
+   "Subcategory": "Student Meal Site",
+   "Status": "Permanently Closed",
+   "Longitude": -75.19409364,
+   "Latitude": 39.96600487
+ },
+ {
+   "Site": "Mitzvah Food Program Northeast",
+   "Address": "10100 Jamison Ave.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.02136877,
+   "Latitude": 40.10039099
+ },
+ {
+   "Site": "Dobbins Technical High School",
+   "Address": "2150 W Lehigh Ave.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.16671554,
+   "Latitude": 39.99518165
+ },
+ {
+   "Site": "Gideon School",
+   "Address": "2817 W Glenwood Ave.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.18059052,
+   "Latitude": 39.98433999
+ },
+ {
+   "Site": "Temple University Hospital, Episcopal Campus",
+   "Address": "100 E. Lehigh Ave.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.12921283,
+   "Latitude": 39.99001439
+ },
+ {
+   "Site": "New Hope AME Zion Church",
+   "Address": "5802 Musgrave St.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.16892025,
+   "Latitude": 40.04400408
+ },
+ {
+   "Site": "New Disciples Ministries",
+   "Address": "6301 Kingsessing Ave.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.23581471,
+   "Latitude": 39.92884765
+ },
+ {
+   "Site": "Feed Philly Now",
+   "Address": "2819 N Mascher St",
+   "Category": "Small Things Philly",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.13218184,
+   "Latitude": 39.99322673
+ },
+ {
+   "Site": "Philadelphia Masjid",
+   "Address": "4700 Wyalusing Ave.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.21622662,
+   "Latitude": 39.96986827
+ },
+ {
+   "Site": "CDA Philadelphia Ministry",
+   "Address": "301 Saint Vincent St",
+   "Category": "Small Things Philly",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.08771344,
+   "Latitude": 40.06078846
+ },
+ {
+   "Site": "Concilio",
+   "Address": "141 E Hunting Park Ave",
+   "Category": "Small Things Philly",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.12377796,
+   "Latitude": 40.01371829
+ },
+ {
+   "Site": "New Covenant Church Cheltenham",
+   "Address": "4201 Princeton Ave",
+   "Category": "Small Things Philly",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.04313714,
+   "Latitude": 40.03326816
+ },
+ {
+   "Site": "OCCCDA (Howell St.)",
+   "Address": "900 E Howell St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.09109297,
+   "Latitude": 40.03829077
+ },
+ {
+   "Site": "Firm Hope Baptist Church",
+   "Address": "2311 E Auburn St",
+   "Category": "Small Things Philly",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.11516023,
+   "Latitude": 39.98516475
+ },
+ {
+   "Site": "South Philadelphia High School",
+   "Address": "2101 Broad St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.16875455,
+   "Latitude": 39.92342268
+ },
+ {
+   "Site": "Allegheny West Foundation",
+   "Address": "3101 N. 22nd St.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.1658706,
+   "Latitude": 40.002056
+ },
+ {
+   "Site": "University City Hospitality Coalition Hillel",
+   "Address": "215 S 39th St.",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.20048616,
+   "Latitude": 39.95265454
+ },
+ {
+   "Site": "Old First Reformed United Church of Christ",
+   "Address": "151 N. 4th St.",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.14620403,
+   "Latitude": 39.9537641
+ },
+ {
+   "Site": "South Philly Community Fridge at BOK Building",
+   "Address": "1901 S. 9th St.",
+   "Category": "Community Refrigerators",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.16001603,
+   "Latitude": 39.92528785
+ },
+ {
+   "Site": "Bebashi Community Fridge",
+   "Address": "1235 Spring Garden St.",
+   "Category": "Community Refrigerators",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.15860053,
+   "Latitude": 39.96216055
+ },
+ {
+   "Site": "East Falls Community Fridge at Vault + Vine",
+   "Address": "3507 Midvale Ave.",
+   "Category": "Community Refrigerators",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.19259686,
+   "Latitude": 40.01365287
+ },
+ {
+   "Site": "Fridges and Family at the People's Kitchen",
+   "Address": "1149 S. 9th St.",
+   "Category": "Community Refrigerators",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.1586758,
+   "Latitude": 39.93501352
+ },
+ {
+   "Site": "Germantown Community Fridge",
+   "Address": "20 W. Armat St.",
+   "Category": "Community Refrigerators",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.17406988,
+   "Latitude": 40.03464838
+ },
+ {
+   "Site": "Germantown Community Fridge",
+   "Address": "19 E. High St.",
+   "Category": "Community Refrigerators",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.17729185,
+   "Latitude": 40.03978078
+ },
+ {
+   "Site": "South Philly Community Fridge at Mifflin Sq. Park",
+   "Address": "516 Wolf St.",
+   "Category": "Community Refrigerators",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.15637696,
+   "Latitude": 39.92005851
+ },
+ {
+   "Site": "Umoja Community Fridge at North Philly Peace Park",
+   "Address": "2226 West Jefferson St.",
+   "Category": "Community Refrigerators",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.17210739,
+   "Latitude": 39.97746454
+ },
+ {
+   "Site": "Bethany Indonesian Church",
+   "Address": "1709 South Broad St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.16836781,
+   "Latitude": 39.92894126
+ },
+ {
+   "Site": "Feast for Friends",
+   "Address": "6001 Colgate St.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.10014905,
+   "Latitude": 40.04464767
+ },
+ {
+   "Site": "John Welsh School",
+   "Address": "2331 N. 4th Street",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.13924747,
+   "Latitude": 39.98660435
+ },
+ {
+   "Site": "Kingdom Restoration Ministries",
+   "Address": "5310 N. 8th St.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.13670952,
+   "Latitude": 40.03316787
+ },
+ {
+   "Site": "Mi Salud Wellness Center",
+   "Address": "200 E. Wyoming Ave.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.12222131,
+   "Latitude": 40.02100414
+ },
+ {
+   "Site": "Project HOME",
+   "Address": "1845 N 23rd St.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.17173498,
+   "Latitude": 39.98312443
+ },
+ {
+   "Site": "Richard and Friends United in the Community",
+   "Address": "1921 E Venango St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.10220307,
+   "Latitude": 39.99959059
+ },
+ {
+   "Site": "The Word in Action International Ministries",
+   "Address": "1539 W. Courtland Street",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.15116168,
+   "Latitude": 40.02370488
+ },
+ {
+   "Site": "Urban Creators",
+   "Address": "2315 N. 11th St.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.1503022,
+   "Latitude": 39.9876218
+ },
+ {
+   "Site": "Wynne Senior Residences - Penrose",
+   "Address": "2001 N. 54th St.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.23153483,
+   "Latitude": 39.98693481
+ },
+ {
+   "Site": "Association of Former Gang Members",
+   "Address": "1644 W. Susquehanna Ave.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Permanently Closed",
+   "Longitude": -75.16079534,
+   "Latitude": 39.98672758
+ },
+ {
+   "Site": "Old St. Joseph's Church",
+   "Address": "321 Willings Alley",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": -75.14759175,
+   "Latitude": 39.94657906
+ },
+ {
+   "Site": "Stephen and Sandra Sheller 11th St. Family Health Services",
+   "Address": "850 N. 11th St.",
+   "Category": "Nutritional Development Services",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.1551145,
+   "Latitude": 39.96793255
+ },
+ {
+   "Site": "Feast of Justice - Northeast Services Hub",
+   "Address": "6334 Castor Ave",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.07853818,
+   "Latitude": 40.03856755
+ },
+ {
+   "Site": "St. John Memorial Baptist Church",
+   "Address": "2853 Germantown Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": -75.14683638,
+   "Latitude": 39.99590174
+ },
+ {
+   "Site": "Catholic Social Services Southwest",
+   "Address": "6214 Grays Ave.",
+   "Category": "BenePhilly",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.22823869,
+   "Latitude": 39.92562457
+ },
+ {
+   "Site": "Esperanza",
+   "Address": "4261 N. 5th St.",
+   "Category": "BenePhilly",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.13416739,
+   "Latitude": 40.0162608
+ },
+ {
+   "Site": "Impact Services",
+   "Address": "1952 E. Allegheny Ave.",
+   "Category": "BenePhilly",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.11225925,
+   "Latitude": 39.99425745
+ },
+ {
+   "Site": "Impact Services at PA CareerLink, Northwest",
+   "Address": "5847 Germantown Ave.",
+   "Category": "BenePhilly",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.17654958,
+   "Latitude": 40.03849176
+ },
+ {
+   "Site": "Philadelphia FIGHT",
+   "Address": "1233 Locust St.",
+   "Category": "BenePhilly",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.16194112,
+   "Latitude": 39.94815364
+ },
+ {
+   "Site": "Office of Community Empowerment and Opportunity (CEO) Mobile Benefits Unit",
+   "Address": "",
+   "Category": "BenePhilly",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "UESF",
+   "Address": "1608 Walnut St.",
+   "Category": "BenePhilly",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.16812461,
+   "Latitude": 39.94964137
+ },
+ {
+   "Site": "Aramingo WIC Office",
+   "Address": "2401 E. Tioga St., #A-4",
+   "Category": "WIC",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.09815012,
+   "Latitude": 39.99146028
+ },
+ {
+   "Site": "Lehigh WIC Office",
+   "Address": "217-33 W. Lehigh Ave.",
+   "Category": "WIC",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.13551882,
+   "Latitude": 39.99240343
+ },
+ {
+   "Site": "North Philadelphia WIC Office",
+   "Address": "2709 N. Broad St., (Rear Entrance on Park Ave., 2nd Floor)",
+   "Category": "WIC",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.15409138,
+   "Latitude": 39.9946995
+ },
+ {
+   "Site": "Northeast WIC Office",
+   "Address": "7959 Bustleton Ave.",
+   "Category": "WIC",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.05193378,
+   "Latitude": 40.05889808
+ },
+ {
+   "Site": "Olney/Logan WIC Office",
+   "Address": "5751 N. Broad St., Unit 5",
+   "Category": "WIC",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.14393878,
+   "Latitude": 40.04125241
+ },
+ {
+   "Site": "Overbrook WIC Office",
+   "Address": "Overbrook Plaza, #1400, 5610 Lancaster Ave.",
+   "Category": "WIC",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.23489215,
+   "Latitude": 39.9795656
+ },
+ {
+   "Site": "South Philadelphia WIC Office",
+   "Address": "1165 S. Broad St.",
+   "Category": "WIC",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.16666409,
+   "Latitude": 39.93591439
+ },
+ {
+   "Site": "St. Christopher's WIC Office",
+   "Address": "Nelson Pavilion Bldg., 160 Erie Ave.",
+   "Category": "WIC",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.12701848,
+   "Latitude": 40.0060639
+ },
+ {
+   "Site": "Woodland WIC Office",
+   "Address": "1741 S. 54th St.",
+   "Category": "WIC",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.21908051,
+   "Latitude": 39.93708154
+ },
+ {
+   "Site": "Germantown WIC Office",
+   "Address": "47 W. Chelten Avenue",
+   "Category": "WIC",
+   "Subcategory": "Public Benefits",
+   "Status": "Active",
+   "Longitude": -75.17608299,
+   "Latitude": 40.03513166
+ },
+ {
+   "Site": "Prevention Point (Love Lot)",
+   "Address": "2913 Kensington Ave.",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Rising Sun Health Center",
+   "Address": "5675 N. Front St.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Brothers of Strawberry Mansion",
+   "Address": "3218 W. Susquehanna Ave.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "First Church of Love and Deliverance",
+   "Address": "3101 Ridge Ave.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Hickman Temple Daycare",
+   "Address": "1220 S. 58th",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Martin Luther King Jr. Association For Nonviolence Inc. (MLK)",
+   "Address": "3001 Walnut St.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Self Inc./Outley House",
+   "Address": "6901 Woodland Ave.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Bethesda Project",
+   "Address": "907 Hamilton St.",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "The Living Word Evangelistic Missionary Church, Inc.",
+   "Address": "872 N. 40th St.",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Veterans Multi-Service Center",
+   "Address": "213-217 N. 4th St.",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Keeping It Real Christian Fellowship Bread of Life Ministry",
+   "Address": "North 18th St. and Benjamin Franklin Parkway",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "There's Hope",
+   "Address": "Kensington Ave. and E. Hilton St.",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Small Things Market at Emmanuel (inside of Resurrection Church)",
+   "Address": "123 S 17th St",
+   "Category": "STP",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Small Things Market at Emmanuel (inside of Resurrection Church)",
+   "Address": "123 S 17th St",
+   "Category": "Small Things Philly",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "48th Street Mount Pleasant Baptist Church",
+   "Address": "5539 Vine St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Abiding Truth Ministries",
+   "Address": "846 S 57th St.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Anchor of Hope",
+   "Address": "53 E Wister St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Bethany AME Church",
+   "Address": "8898 Ashton Rd",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Better Tomorrows - Jackie's Garden",
+   "Address": "1836 N 20th St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Bless Philadelphia Corporation",
+   "Address": "4610 Devereaux St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Breaking Bread on Broad",
+   "Address": "615 N Broad St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Bryn Mawr Avenue New Testament Church of God",
+   "Address": "2227 Bryn Mawr Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Calvary Agape Outreach Service",
+   "Address": "6114 Haverford Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Campbell AME Church",
+   "Address": "1657 Kinsey St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Casa Del Carmen",
+   "Address": "4400 N Reese St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Chelten Christian Crusade",
+   "Address": "605 E Chelten Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Chosen 300 Ministries Inc.",
+   "Address": "3959 Lancaster Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Christ Apostolic Church of America WOSEM",
+   "Address": "6438 Vine St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Church of Christian Compassion",
+   "Address": "6012 Cedar Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Eddie's House - The Cornerstone",
+   "Address": "2321 N Broad St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Einstein Medical Center",
+   "Address": "Corner of W Tabor Rd. and N Park Ave.",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Enon Tabernacle",
+   "Address": "230 W Coulter St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Episcopal Community Services",
+   "Address": "6006 W Girard Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Faith Assembly of God",
+   "Address": "1926-1940 Margaret St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Faith Temple Pentecostal Church",
+   "Address": "5618 Kingsessing Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "First Church Worship Center",
+   "Address": "2509 N 30th St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Freedom Development Corporation",
+   "Address": "6100 W Columbia Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Giving of Self Partnership",
+   "Address": "6101 Limekiln Pike",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Grace Community Christian Center",
+   "Address": "29 W Johnson St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Grace Lutheran Church",
+   "Address": "3529 Haverford Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Greater Philadelphia Asian Social Service Center",
+   "Address": "4943 N 5th St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Haitian Evangelical Baptist Church",
+   "Address": "814 E Chelten Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Helping Hands for the Hungry",
+   "Address": "525 S. Cobbs Creek Parkway",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Holsey Temple CME Church",
+   "Address": "5305-5315 Germantown Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Holy Temple Community Center",
+   "Address": "363 N 60th St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Holy Temple Lord and Savior",
+   "Address": "5116 Market St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Iglesia de Dios Pentecostal",
+   "Address": "516 W. Butler Street",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Lifeway Baptist Church",
+   "Address": "9554 Bustleton Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Lutheran Settlement House Senior Center",
+   "Address": "1340 Frankford Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Masjidullah Center for Human Excellence",
+   "Address": "7401 Limekiln Pike",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Mount Tabor CEED Corporation",
+   "Address": "961-971 N 7th St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Mount Zion United Holy Church",
+   "Address": "4110 Haverford Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "New Jerusalem Laura",
+   "Address": "2011 W Norris St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "North Light Community Center",
+   "Address": "175 Green Ln",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "One Day at a Time Haven II",
+   "Address": "2532 N Broad St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Page Academy CDC",
+   "Address": "1524 W Champlost Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Penn Asian Senior Services",
+   "Address": "6926 Old York Rd",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Pente Church of God",
+   "Address": "3027 N 5th St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Philadelphia Episcopal Cathedral",
+   "Address": "19 S 38th St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Police Athletic League Center - Ford",
+   "Address": "609 Snyder Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Provision of Grace World Mission Church",
+   "Address": "1950 W Rockland St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Refuge Evangelical Baptist Church",
+   "Address": "1100 Oak Ln",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Remnant Church of God",
+   "Address": "7708-7712 Ogontz Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Saint Luke's Episcopal Church",
+   "Address": "5421 Germantown Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Saint Michael's Lutheran Church",
+   "Address": "2139 E Cumberland St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Saint Paul's Baptist Church",
+   "Address": "1000 Wallace St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Salvation Army West Philadelphia Corps",
+   "Address": "5501 Market St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Star of Hope Baptist Church",
+   "Address": "7212 Keystone St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "The Sunday Love Project",
+   "Address": "3200 Kensington Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Truth Baptist Church",
+   "Address": "4666-4668 N 15th St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Two Ladies of Christ",
+   "Address": "4125 Ludlow St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Ujima Friends Peace Center",
+   "Address": "1701 W Lehigh Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Waters Memorial Community Center",
+   "Address": "1016-1018 South St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Wharton Wesley Helping Hands",
+   "Address": "5341 Catharine St",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Together We Can Change at Love Park",
+   "Address": "16th St. and JFK Blvd.",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Together We Can Change at Aviator Park",
+   "Address": "1900-1958 Benjamin Franklin Pkwy",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Locke School",
+   "Address": "4550 Haverford Ave",
+   "Category": "PHILABUNDANCE",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "The Everywhere Project (Love Park)",
+   "Address": "N 15th St. and John F. Kennedy Blvd",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "The Everywhere Project (E. Clearfield St.)",
+   "Address": "1810 E. Clearfield St.",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Fresh Fire Apostolic International Ministries",
+   "Address": "2901 Cedar St.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "OCCCDA (Castor Ave)",
+   "Address": "6500 Castor Ave",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Geiger Memorial Brethren Church",
+   "Address": "2543 W. Lehigh Ave.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Denise's Pantry @ The Print Foundation",
+   "Address": "5843-55 Catharine St.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Helping Hands Nonprofit Organization",
+   "Address": "4667 Paul St.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "True Vine Worship Center",
+   "Address": "521-23 W. Lehigh Ave.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Small Things Philly Market - Fairhill",
+   "Address": "3510 A St.",
+   "Category": "Small Things Philly",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "African Family Health Organization",
+   "Address": "5400 Grays Ave",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Mighty Writers West",
+   "Address": "3520 Fairmount Ave.",
+   "Category": "PHILABUNDANCE/SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "First Haitian Church of God of Prophecy",
+   "Address": "199 E. Tabor Ave.",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "",
+   "Address": "",
+   "Category": "",
+   "Subcategory": "",
+   "Status": "",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Epiphany Fellowship Church Community Fridge",
+   "Address": "1632 W Diamond St",
+   "Category": "Community Refrigerators",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Friends Pantry & Community Fridge",
+   "Address": "320 Arch Street",
+   "Category": "Community Refrigerators",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Mt. Airy Community Fridge",
+   "Address": "6900 Stenton Ave",
+   "Category": "Community Refrigerators",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "St James School Community Fridge",
+   "Address": "3217 West Clearfield St",
+   "Category": "Community Refrigerators",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "The People's Fridge",
+   "Address": "125 South 52nd St",
+   "Category": "Community Refrigerators",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Ian-Yae's In Touch",
+   "Address": "2524 N. 27th St.",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Brothers of Strawberry Mansion Clifford St.",
+   "Address": "3223 W Clifford St",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Food Pantry For Hope, Memorial Presbyterian Church of Fox Chase",
+   "Address": "7902 Oxford Ave.",
+   "Category": "General Food Site",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Narberth Presbyterian Church",
+   "Address": "200 N 19th St.",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Small Things Philly Market - House of Hope",
+   "Address": "1300 W. Hunting Park Ave",
+   "Category": "Small Things Philly",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Operation Save Our City",
+   "Address": "2774 Kensington Ave",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Center-Philadelphia/Arch Street United Methodist",
+   "Address": "55 N. Broad Street",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "KCVC - Keeping It Real Christian Fellowship",
+   "Address": "17th & Benjamin Franklin Parkway",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "La Salle College High School",
+   "Address": "Benjamin Franklin Parkway and Vine St. (Logan Square next to Pennypacker Memorial)",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Feeding 5,000 a NJ Non-Profit Corp",
+   "Address": "Logan Square (200 N 19th St.)",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Beulah Baptist Church",
+   "Address": "Love Park (JFK Blvd and N 15th St.)",
+   "Category": "Office of Homeless Services",
+   "Subcategory": "General Meal Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ },
+ {
+   "Site": "Episcopal Community Service St. Barnabas Community Resource Center",
+   "Address": "6006 West Girard Ave",
+   "Category": "SHARE FOOD PROGRAM",
+   "Subcategory": "Food Site",
+   "Status": "Active",
+   "Longitude": null,
+   "Latitude": null
+ }
+]

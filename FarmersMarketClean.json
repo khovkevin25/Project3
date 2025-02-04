@@ -1,0 +1,200 @@
+[
+ {
+   "Count": 1,
+   "Name": "Pretzel Park Farmers' Market",
+   "Address": "4300 Silverwood Street",
+   "Zipcode": 19127,
+   "Accepts_SNAP": "No",
+   "Longitude": -75.22069357,
+   "Latitude": 40.02577658
+ },
+ {
+   "Count": 2,
+   "Name": "Rittenhouse Farmers' Market",
+   "Address": "1800 Walnut Street",
+   "Zipcode": 19103,
+   "Accepts_SNAP": "No",
+   "Longitude": -75.17158,
+   "Latitude": 39.95028558
+ },
+ {
+   "Count": 3,
+   "Name": "Sankofa Farmstand",
+   "Address": "54th and Lindbergh Blvd",
+   "Zipcode": 19144,
+   "Accepts_SNAP": "Yes",
+   "Longitude": -75.21592569,
+   "Latitude": 39.93261405
+ },
+ {
+   "Count": 4,
+   "Name": "Jefferson Farmers' Market",
+   "Address": "925 Chestnut Street",
+   "Zipcode": 19107,
+   "Accepts_SNAP": "No",
+   "Longitude": -75.15671707,
+   "Latitude": 39.95002551
+ },
+ {
+   "Count": 5,
+   "Name": "East Passyunk Farmers' Market",
+   "Address": "1430 E. Passyunk Avenue",
+   "Zipcode": 19147,
+   "Accepts_SNAP": "No",
+   "Longitude": -75.16230745,
+   "Latitude": 39.93105278
+ },
+ {
+   "Count": 6,
+   "Name": "Dickinson Square Farmers' Market ",
+   "Address": "301 Morris Street",
+   "Zipcode": 19147,
+   "Accepts_SNAP": "No",
+   "Longitude": -75.15124536,
+   "Latitude": 39.92713075
+ },
+ {
+   "Count": 7,
+   "Name": "Chestnut Hill Farmers' Market",
+   "Address": "7640 Winston Road",
+   "Zipcode": 19118,
+   "Accepts_SNAP": "No",
+   "Longitude": -75.19690335,
+   "Latitude": 40.06753587
+ },
+ {
+   "Count": 8,
+   "Name": "East Falls Farmers' Market",
+   "Address": "4100 Ridge Avenue",
+   "Zipcode": 19129,
+   "Accepts_SNAP": "No",
+   "Longitude": -75.19175972,
+   "Latitude": 40.00821975
+ },
+ {
+   "Count": 9,
+   "Name": "Fairmount Farmers' Market",
+   "Address": "22nd and Fairmount",
+   "Zipcode": 19130,
+   "Accepts_SNAP": "Yes",
+   "Longitude": -75.17407894,
+   "Latitude": 39.96742213
+ },
+ {
+   "Count": 10,
+   "Name": "Germantown Farmers Market",
+   "Address": "5501 Germantown Ave",
+   "Zipcode": 19144,
+   "Accepts_SNAP": "Yes",
+   "Longitude": -75.1722641,
+   "Latitude": 40.034317
+ },
+ {
+   "Count": 11,
+   "Name": "Farmers Market at Christ Church",
+   "Address": "20 N American Street",
+   "Zipcode": 19106,
+   "Accepts_SNAP": "Yes",
+   "Longitude": -75.14393902,
+   "Latitude": 39.950545
+ },
+ {
+   "Count": 12,
+   "Name": "Schuylkill River Park Farmers Market",
+   "Address": "2500 Spruce Street",
+   "Zipcode": 19103,
+   "Accepts_SNAP": "No",
+   "Longitude": -75.18118702,
+   "Latitude": 39.94905236
+ },
+ {
+   "Count": 13,
+   "Name": "Norris Square Neighborhood Project Youth-Led Market ",
+   "Address": "2217 N 2nd St. ",
+   "Zipcode": 19133,
+   "Accepts_SNAP": "No",
+   "Longitude": -75.13630528,
+   "Latitude": 39.98422238
+ },
+ {
+   "Count": 14,
+   "Name": "Headhouse Farmer's Market",
+   "Address": "2nd and Lombard Streets",
+   "Zipcode": 19147,
+   "Accepts_SNAP": "Yes",
+   "Longitude": -75.1453901,
+   "Latitude": 39.94272696
+ },
+ {
+   "Count": 15,
+   "Name": "Sanctuary Farm Phila",
+   "Address": "22nd and Cecil B. Moore",
+   "Zipcode": 19121,
+   "Accepts_SNAP": "No",
+   "Longitude": -75.17112464,
+   "Latitude": 39.98023255
+ },
+ {
+   "Count": 16,
+   "Name": "Sanctuary Farm at Health Connections",
+   "Address": "1900 N 9th street  #104",
+   "Zipcode": 19122,
+   "Accepts_SNAP": "No",
+   "Longitude": -75.14882386,
+   "Latitude": 39.98131718
+ },
+ {
+   "Count": 17,
+   "Name": "Northern Liberties Farmers Market",
+   "Address": "N 2nd Street and Germantown Ave",
+   "Zipcode": 19123,
+   "Accepts_SNAP": "Yes",
+   "Longitude": -75.13933002,
+   "Latitude": 39.96724944
+ },
+ {
+   "Count": 18,
+   "Name": "Clark Park Farmers Market",
+   "Address": "4300 Baltimore Ave",
+   "Zipcode": 19104,
+   "Accepts_SNAP": "Yes",
+   "Longitude": -75.20926918,
+   "Latitude": 39.94905323
+ },
+ {
+   "Count": 19,
+   "Name": "Northeast WIC Farm Stand ",
+   "Address": "7959 Bustleton Ave",
+   "Zipcode": 19152,
+   "Accepts_SNAP": "Yes",
+   "Longitude": -75.05141946,
+   "Latitude": 40.05846472
+ },
+ {
+   "Count": 20,
+   "Name": "Henry Got Crops Farm Market",
+   "Address": "7095 Henry Avenue",
+   "Zipcode": 19128,
+   "Accepts_SNAP": "Yes",
+   "Longitude": -75.2195594,
+   "Latitude": 40.04916215
+ },
+ {
+   "Count": 21,
+   "Name": "University Square",
+   "Address": "36th and Walnut St",
+   "Zipcode": 19104,
+   "Accepts_SNAP": "",
+   "Longitude": -75.19478303,
+   "Latitude": 39.95314099
+ },
+ {
+   "Count": 22,
+   "Name": "Fitler Square Farmer's Market",
+   "Address": "23rd and Pine St",
+   "Zipcode": 19103,
+   "Accepts_SNAP": "Yes",
+   "Longitude": -75.17931297,
+   "Latitude": 39.94732198
+ }
+]
