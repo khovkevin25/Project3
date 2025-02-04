@@ -26,7 +26,6 @@ d3.json(link).then(geojsonData => {
                 let data = censusLookup[tractID];
 
                 if (data) {
-                    //let seniors05 = +data["LA Senior population - 0.5 mile radius"];
                     let income = +data["Median Family Income"];
                     let poverty = +data["Poverty Rate (%)"];
                 
